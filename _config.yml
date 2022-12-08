@@ -1,0 +1,12 @@
+# Site settings
+title:       'Ada Resouce Hub'
+email:
+description: 'Community Site'
+url:         'https://the-ARH.github.io'
+baseurl:
+twitter_username:
+github_username:  jquorning
+
+# Build settings
+markdown: kramdown
+permalink: pretty
