@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Ada Resources
+title: Resources
 ---
 
 ## tl;dr
-- [AIC](/http://www.adaic.com/)
+- [AIC](/https://www.adaic.com/)
 
 ## TOC
 
 - [Get Started](/ada/getstarted/)
-- [Forum](/ada/chat/)
+- [Chat](/ada/chat/)
 - [Live](/ada/live)
 - [Featured](/ada/featured/)
 - [Blogs](/ada/blogs/)

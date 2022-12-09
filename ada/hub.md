@@ -10,7 +10,7 @@ title: Hub
 - [ACATS](http://www.ada-auth.org/acats.html) Ada Conformity Assessment Test Suite
 - [ARA](http://www.adaic.org/community/) Ada Resource Association
 - [ARG](http://www.ada-auth.org/arg.html) Ada Rapporteur Group
-- [ARH](http://jquorning.github.io/) Ada Resource Hub
+- [ARH](https://github.com/the-ARH/the-ARH.github.io) Ada Resource Hub
 - [ARM](https://www.ada-auth.org/arm.html) Ada Reference Manual
 - [CLA](https://groups.google.com/g/comp.lang.ada) comp.lang.ada via Google Groups
 - [FOSDEM](/ada/fosdem/)

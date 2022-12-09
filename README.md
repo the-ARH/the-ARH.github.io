@@ -1,5 +1,5 @@
-# jquorning.github.io/ada
+# Ada Resouce Hub
 
 Ada projects and resourcs on GitHub and elsewhere.
 
-[Ada on GitHub](https://jquorning.github.io/ada)
+[Ada Resource Hub](https://the-arh.github.io)

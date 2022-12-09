@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ada Resource Hub
+title: Index
 ---
 
 - [Ada](/ada/)
