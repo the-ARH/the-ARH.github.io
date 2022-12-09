@@ -3,41 +3,34 @@ layout: page
 title: Index
 ---
 
+Welcode to Yet Another Resource Site about our belovid Lady Ada and her deeds.
+
+In the beginnig I was a little facinated by her; By now it has turned into a 
+lifelong passion.
+
 - [Ada](/ada/)
 - [SPARK](/spark/)
-- [Forsøg](/forsøg/)
-- [Blog](/blogs/)
+- [Blog](/blog/)
+- [Table of Contents](/toc/)
 
-
-## others
-- [Blogs](/blogs/)
+others
+---
+- [Blogs](/blog/)
 - [Blogs](/ada/blogs/)
 - [Chat](/ada/chat/)
 - [Forum](/ada/chat/)
 - [Live](/ada/live)
-- [Library](/library/)
 - [Web](/ada/web/)
 
-
-## Standards
+Standard
+---
 - [Ada 2022 Language Reference Manual](http://www.ada-auth.org/standards/ada22.html)
 
-## TOC
-- [Get Started](/ada/getstarted/)
-- [Featured](/ada/featured/)
-- [Manuals](/ada/manuals/)
-- [Books](/ada/books/)
-- [Papers](/ada/papers/)
-- [Embedded](/ada/embedded/)
-- [Presentations](/ada/presentations/)
-- [Other Resources](/ada/other/)
-- [Programming](/ada/programming/)
-- [Moral Support](/ada/moral/)
-
-## Standard Library
+Standard Library
+---
 - [Ada](/ada/man/ada/)
 - [Ada.Containers](/ada/man/ada-containers/)
 - [Ada.Numerics](/ada/man/ada-numerics/)
 - [Interfaces](/ada/man/interfaces/)
 - [System](/ada/man/system/)
-
+- [SPARK](/spark/)
