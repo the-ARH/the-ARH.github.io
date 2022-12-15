@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blogs etc.
+title: Ada Blogs
 ---
 
 - [Inspirel](http://www.inspirel.com/articles.html)

@@ -15,8 +15,8 @@ lifelong passion.
 
 others
 ---
-- [Blogs](/blog/)
-- [Blogs](/ada/blogs/)
+- [ARH Blogs](/blogs/)
+- [Ada Blogs](/ada/blogs/)
 - [Chat](/ada/chat/)
 - [Forum](/ada/chat/)
 - [Live](/ada/live)

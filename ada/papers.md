@@ -25,4 +25,5 @@ Vulnerabilities
 - [Siemens Embedded](https://blogs.sw.siemens.com/embedded-software/2011/08/01/the-ideal-programming-language/)
 
 ## Advocacy
+- [LLNL](https://www.llnl.gov/news/national-ignition-facility-achieves-fusion-ignition)
 - [Ada 2012](http://www.ada2012.org)

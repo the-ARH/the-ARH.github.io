@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blogs
+title: ARH Blogs
 ---
 
 ### Blog posts
