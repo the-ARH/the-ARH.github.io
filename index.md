@@ -5,12 +5,14 @@ title: Index
 
 Welcode to Yet Another Resource Site about our belovid Lady Ada and her deeds.
 
-In the beginnig I was a little facinated by her; By now it has turned into a 
-lifelong passion.
+In the beginnig I was a little facinated by her; By now it has turned into 
+a passion.
 
 - [Ada](/ada/)
-- [SPARK](/spark/)
 - [Blog](/blog/)
+- [Libraries](/libraries/)
+- [Library Selector](/selector/)
+- [SPARK](/spark/)
 - [Table of Contents](/toc/)
 
 others
