@@ -3,6 +3,8 @@ layout: page
 title: Index
 ---
 
+[Ada News Digest, December 2022](https://www.youtube.com/watch?v=r6sPwIcygHk)
+
 Welcode to Yet Another Resource Site about our belovid Lady Ada and her deeds.
 
 In the beginnig I was a little facinated by her; By now it has turned into 
