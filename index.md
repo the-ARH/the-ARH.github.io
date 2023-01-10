@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index - ARH
+title: Index
 ---
 
 Welcode to Yet Another Resource Site about our belovid Lady Ada and her deeds.

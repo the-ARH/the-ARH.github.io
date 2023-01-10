@@ -26,6 +26,9 @@ title: Resources
 - [Web](/ada/web/)
 - [Moral Support](/ada/moral/)
 
+## Education
+- [Video](/ada/video/)
+
 ## Standard Library
 - [Ada](/ada/man/ada/)
 - [Ada.Containers](/ada/man/ada-containers/)
