@@ -27,7 +27,7 @@ title: Resources
 - [Moral Support](/ada/moral/)
 
 ## Education
-- [Video](/ada/video/)
+- [Video](/video/)
 
 ## Standard Library
 - [Ada](/ada/man/ada/)
