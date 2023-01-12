@@ -8,7 +8,7 @@ Welcode to Yet Another Resource Site about our belovid Lady Ada and her deeds.
 In the beginnig I was a little facinated by her; By now it has turned into 
 a passion.
 
-- [Ada News Digest](/ada-news-digest/)
+- [News Digest](/news-digest/)
 - [Ada](/ada/)
 - [Blog](/blog/)
 - [Educate](/educate/)
