@@ -11,6 +11,7 @@ a passion.
 - [Ada News Digest](/ada-news-digest/)
 - [Ada](/ada/)
 - [Blog](/blog/)
+- [Educate](/educate/)
 - [Libraries](/libraries/)
 - [Library Selector](/selector/)
 - [SPARK](/spark/)
