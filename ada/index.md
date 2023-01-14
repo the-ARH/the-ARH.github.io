@@ -11,7 +11,10 @@ TOC
 ----
 - [Ada](/ada/)
 - [Educate](/educate/)
+- [Library](/library/)
+- [News Digest](/news-digest/)
 - [Posts](/posts/)
+- [Select](/select)
 - [SPARK](/spark/)
 - [Video](/educate/video/)
 
