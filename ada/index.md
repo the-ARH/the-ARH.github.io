@@ -3,11 +3,20 @@ layout: page
 title: Resources
 ---
 
-## tl;dr
+tl;dr
+----
 - [AIC](/https://www.adaic.com/)
 
-## TOC
+TOC
+----
+- [Ada](/ada/)
+- [Educate](/educate/)
+- [Posts](/posts/)
+- [SPARK](/spark/)
+- [Video](/educate/video/)
 
+Ada
+-----
 - [Get Started](/ada/getstarted/)
 - [Chat](/ada/chat/)
 - [Live](/ada/live)
@@ -26,10 +35,8 @@ title: Resources
 - [Web](/ada/web/)
 - [Moral Support](/ada/moral/)
 
-## Education
-- [Video](/video/)
-
-## Standard Library
+Standard Library
+------
 - [Ada](/ada/man/ada/)
 - [Ada.Containers](/ada/man/ada-containers/)
 - [Ada.Numerics](/ada/man/ada-numerics/)

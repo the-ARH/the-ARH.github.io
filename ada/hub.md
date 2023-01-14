@@ -22,7 +22,7 @@ title: Hub
 - [TOC](/ada/toc/)
 
 ## others
-- [Blogs](/blogs/)
+- [Posts](/posts/)
 - [Blogs](/ada/blogs/)
 - [Chat](/ada/chat/)
 - [Forum](/ada/chat/)
