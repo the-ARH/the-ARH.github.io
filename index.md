@@ -10,7 +10,7 @@ a passion.
 
 - [News Digest](/news-digest/)
 - [Ada](/ada/)
-- [Blog](/blog/)
+- [Blogs](/blogs/)
 - [Educate](/educate/)
 - [Libraries](/libraries/)
 - [Library Selector](/selector/)
