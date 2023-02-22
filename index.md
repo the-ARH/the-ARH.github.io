@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Index
+title: ARH - Ada Resource Hub
 ---
 
 Welcode to Yet Another Resource Site about our belovid Lady Ada and her deeds.
@@ -18,7 +17,7 @@ a passion.
 - [Table of Contents](/toc/)
 
 others
----
+----
 - [ARH Blogs](/blogs/)
 - [Ada Blogs](/ada/blogs/)
 - [Chat](/ada/chat/)
@@ -27,14 +26,17 @@ others
 - [Web](/ada/web/)
 
 Standard
----
+----
 - [Ada 2022 Language Reference Manual](http://www.ada-auth.org/standards/ada22.html)
 
 Standard Library
----
+----
 - [Ada](/ada/man/ada/)
 - [Ada.Containers](/ada/man/ada-containers/)
 - [Ada.Numerics](/ada/man/ada-numerics/)
 - [Interfaces](/ada/man/interfaces/)
 - [System](/ada/man/system/)
+
+SPARK
+----
 - [SPARK](/spark/)
