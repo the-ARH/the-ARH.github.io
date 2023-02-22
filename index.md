@@ -1,5 +1,6 @@
 ---
 title: ARH - Ada Resource Hub
+layout: default
 ---
 
 Welcome to Yet Another Resource Site about our belovid Lady Ada and her deeds.
@@ -36,3 +37,8 @@ Standard Library
 - [Ada.Numerics](/ada/man/ada-numerics/)
 - [Interfaces](/ada/man/interfaces/)
 - [System](/ada/man/system/)
+
+Source
+----
+[GitHub](https://github.com/the-arh/)
+
