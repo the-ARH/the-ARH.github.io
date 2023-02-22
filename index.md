@@ -2,7 +2,7 @@
 title: ARH - Ada Resource Hub
 ---
 
-Welcode to Yet Another Resource Site about our belovid Lady Ada and her deeds.
+Welcome to Yet Another Resource Site about our belovid Lady Ada and her deeds.
 
 In the beginnig I was a little facinated by her; By now it has turned into 
 a passion.
@@ -36,7 +36,3 @@ Standard Library
 - [Ada.Numerics](/ada/man/ada-numerics/)
 - [Interfaces](/ada/man/interfaces/)
 - [System](/ada/man/system/)
-
-SPARK
-----
-- [SPARK](/spark/)
