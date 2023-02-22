@@ -1,6 +1,7 @@
 ---
+title: Ada News Digest
 layout: page
-title: Ada News Digest - ARH
 ---
 
-- [Ada News Digest, December 2022](https://www.youtube.com/watch?v=r6sPwIcygHk)
+[January 2023](https://www.youtube.com/watch?v=oGsUix0EreI)  
+[December 2022](https://www.youtube.com/watch?v=r6sPwIcygHk)  
